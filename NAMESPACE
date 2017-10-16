@@ -1,0 +1,4 @@
+useDynLib(gpuRNN)
+import(RcppEigen)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
