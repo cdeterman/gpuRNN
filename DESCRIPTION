@@ -1,11 +1,15 @@
 Package: gpuRNN
 Type: Package
-Title: What the package does (short line)
+Title: GPU enabled neural network functions
 Version: 1.0
 Date: 2017-10-16
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
-Imports: Rcpp (>= 0.12.13), RcppEigen (>= 0.3.3.3.0)
-LinkingTo: Rcpp, RcppEigen
+Author: Charles Determan Jr.
+Maintainer: Charles Determan Jr. <cdetermanjr@gmail.com>
+Description: Provide GPU enabled functions for building 
+  neural network models
+License: GPL (>=2)
+Imports: R6
+Encoding: UTF-8
+URL: http://github.com/gpuRcore/gpuRNN
+BugReports: http:github.com/gpuRcore/gpuRNN/issues/new
+RoxygenNote: 6.0.1
